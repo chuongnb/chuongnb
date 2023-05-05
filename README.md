@@ -7,7 +7,7 @@
 
 # 🛠 Languages and Tools
 
-<div align="center">
+<div align="left">
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/fluency/48/null/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/null/c-sharp-logo-2.png"/>
@@ -17,6 +17,6 @@
 
 # 🌐️ Connect with me
 
-<div align="center">
+<div align="left">
 <a href="https://www.facebook.com/czpr1"><img src="https://img.icons8.com/color/48/null/facebook.png"/></a>
 </div>
