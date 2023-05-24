@@ -3,7 +3,7 @@
 # 👋 Hi there 
 
 - 🔭 I’m HO CHUONG
-- 🌱 Student at Ho Chi Minh City Industrial University
+- 🌱 Student at Industrial University of Ho Chi Minh City
 
 # 🛠 Languages and Tools
 
